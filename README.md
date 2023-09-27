@@ -10,5 +10,7 @@ Tangerines are small orange fruits that belong to the citrus family. Tangerines 
 ## History
 Said to be indigenous to the tropical and subtropical climates of the Southeastern regions of Asia, the tangerine spread accross the globe as a result of trade routes such as the Silk Road. The rapid growth of civilization and the growing interconnectedness between different peoples only supported the spread of tangerines. However, it was not until the first tangerines were exported from Tangier, Morocco to Europe that the tangerine received its name. The tangerine is now planted across the world in regions of Africa, Asia, Australia, North America, South America, and more!
 
+## More Information
+- [Tangerine Wikipedia page](https://en.wikipedia.org/wiki/Tangerine#:~:text=Tangerines%20are%20smaller%20and%20less,with%20little%20bitter%20white%20mesocarp.)
 
 
